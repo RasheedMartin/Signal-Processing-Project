@@ -1,17 +1,13 @@
-﻿##############################################################################
- Text, logo
 
-Description automatically generated 
+# Signal Processing Project
 
-        README.txt
-Emilio Santana-Ferro, Rasheed Martin, Mram Shalabi
+## By: Emilio Santana-Ferro, Rasheed Martin, Mram Shalabi
 
 
-##############################################################################
 
 
-Introduction
- 
+### Introduction
+
 This code is created with the intention of combining multiple waves into audible frequencies which is done by creating tones in the range of 300 Hz ≤ f ≤ 3 KHz, which is the range for the human ear (give or take). 
 4 distinct “notes” are defined along with their standardized frequencies and are placed into vectors (c, d, e, ed), which then when reproduced at certain times will create a “song” for us, in this case Mary had a Little Lab. 
 
@@ -28,7 +24,7 @@ Furthermore, the code can also generate plots and a spectrograph which will visu
 ---------------------------------------------------------------------------------------------------------------------
 
 
-Getting Started:
+### Getting Started:
 
 
 * Prerequisites:
@@ -40,14 +36,12 @@ Getting Started:
 * Installation: 
    * Check OS version and update if necessary 
    * Download the installer at https://www.mathworks.com A picture containing graphical user interface
-
-Description automatically generated 
    * Sign up using your NYIT email to receive free yearly license
    * Pick your architecture (Most current PCs are x64-bit)
    * Run through the installation
 
 
-***BE MINDFUL OF YOUR OUTPUT SAVE FOLDER, THIS IS WHERE YOUR .WAV FILE AND .FIG FILES WILL BE PLACED AFTER CODE EXECUTION) ****
+**BE MINDFUL OF YOUR OUTPUT SAVE FOLDER, THIS IS WHERE YOUR .WAV FILE AND .FIG FILES WILL BE PLACED AFTER CODE EXECUTION)**
 
 
    * Login with Mathworks account to activate license 
@@ -57,7 +51,7 @@ Description automatically generated
 ---------------------------------------------------------------------------------------------------------------------
 
 
-Uses:
+### Uses:
 
 
 This Section will relate to functions used in the project and how they are being used to get a 10 second audio wave file.
